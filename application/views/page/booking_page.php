@@ -5,6 +5,7 @@
 	<title>Kitabooking</title>
 	<?= $style; ?>
 	<?= $script; ?>
+	<!-- testing -->
 </head>
 <body>
 	<?= $navbar;
